@@ -1,0 +1,7 @@
+User
+# macOS system files
+.DS_Store
+
+# Temporary files
+.air.toml
+/tmp
